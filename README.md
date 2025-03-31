@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdk59&show_icons=true&theme=dark)
 <!-- Solved.ac -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wdk59})](https://solved.ac/{wdk59})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wdk59)](https://solved.ac/wdk59)
