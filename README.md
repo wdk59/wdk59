@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 참고: https://minny27.tistory.com/10 -->
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdk59&layout=compact)
+<!-- GitHub Status -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wdk59&show_icons=true&theme=dark)
+<!-- Solved.ac -->
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={wdk59})](https://solved.ac/{wdk59})
